@@ -27,7 +27,7 @@
 
 ## Spring
 
-  - [`[Spring] Spring MVC 프로젝트의 기본 구조와 실행 순서`](https://github.com/Hyeon-moGu/Study-repo/issues/8)
+  - [`[Spring] Spring의 MVC패턴과 MVC1과 MVC2 비교`](https://github.com/Hyeon-moGu/Study-repo/issues/8)
 
 <br>
 
