@@ -31,8 +31,12 @@
 
 <br>
 
-## IDE
+## Git / Github
 
+  - [`[Github] .DS_Store 파일 개념 및 삭제 방법`](https://github.com/Hyeon-moGu/Study-repo/issues/9)
+  
 <br>
 
-## Git / Github
+## IDE
+
+
