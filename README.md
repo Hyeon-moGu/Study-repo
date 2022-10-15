@@ -27,6 +27,7 @@
 
 ## Spring
 
+  - [`[Spring] SOLID 원칙`](https://github.com/Hyeon-moGu/Study-repo/issues/10)
   - [`[Spring] Spring의 MVC패턴과 MVC1과 MVC2 비교`](https://github.com/Hyeon-moGu/Study-repo/issues/8)
 
 <br>
@@ -38,5 +39,4 @@
 <br>
 
 ## IDE
-
 
