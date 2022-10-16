@@ -35,6 +35,7 @@
 ## Git / Github
 
   - [`[Github] .DS_Store 파일 개념 및 삭제 방법`](https://github.com/Hyeon-moGu/Study-repo/issues/9)
+  - [`[Github] GitHub에 잘못 올라간 파일 제거하기(.gitignore)`](https://github.com/Hyeon-moGu/Study-repo/issues/11)
   
 <br>
 
