@@ -41,3 +41,5 @@
 
 ## IDE
 
+- [`[IDE] 인텔리제이(IntelliJ) 유용한 플러그인(Plugins)`](https://github.com/Hyeon-moGu/Study-repo/issues/12)
+
