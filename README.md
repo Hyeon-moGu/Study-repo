@@ -16,6 +16,7 @@
   - [`[Java] 컴파일과 빌드의 차이점`](https://github.com/Hyeon-moGu/Study-repo/issues/3)
   - [`[Java] Annotation(어노테이션)이란?`](https://github.com/Hyeon-moGu/Study-repo/issues/6)
   - [`[Java] Java Collection(컬렉션)`](https://github.com/Hyeon-moGu/Study-repo/issues/7)
+  - [`[Java] Generic(제네릭)이란?`](https://github.com/Hyeon-moGu/Study-repo/issues/13)
   
 <br>
 
