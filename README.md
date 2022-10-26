@@ -44,6 +44,7 @@
 
   - [`[Github] .DS_Store 파일 개념 및 삭제 방법`](https://github.com/Hyeon-moGu/Study-repo/issues/9)
   - [`[Github] GitHub에 잘못 올라간 파일 제거하기(.gitignore)`](https://github.com/Hyeon-moGu/Study-repo/issues/11)
+  - [`[Github] GitHub 원본 레포지토리와 로컬 레포지토리 싱크 맞추기`](https://github.com/Hyeon-moGu/Study-repo/issues/16)
   
 <br>
 
