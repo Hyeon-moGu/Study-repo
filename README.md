@@ -23,6 +23,7 @@
 ## JavaScript
 
   - [`[JavaScript] ES5와 ES6의 차이`](https://github.com/Hyeon-moGu/Study-repo/issues/4)
+  - [`[JavaScript] JS popup opener`](https://github.com/Hyeon-moGu/Study-repo/issues/18)
 
 <br>
 
