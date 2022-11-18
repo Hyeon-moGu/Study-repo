@@ -17,6 +17,7 @@
   - [`[Java] Annotation(어노테이션)이란?`](https://github.com/Hyeon-moGu/Study-repo/issues/6)
   - [`[Java] Java Collection(컬렉션)`](https://github.com/Hyeon-moGu/Study-repo/issues/7)
   - [`[Java] Generic(제네릭)이란?`](https://github.com/Hyeon-moGu/Study-repo/issues/13)
+  - [`[Java] Java VO(Value Object)`](https://github.com/Hyeon-moGu/Study-repo/issues/19)
   
 <br>
 
