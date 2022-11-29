@@ -1,5 +1,6 @@
 # Study-repo
 - [자료구조](https://github.com/Hyeon-moGu/Study-repo/blob/main/Data%20Structure/Data%20Structure.md)
+- [데이터베이스](https://github.com/Hyeon-moGu/Study-repo/blob/main/Database.md)
  
 <br>
 
