@@ -15,6 +15,7 @@
 ## PHP
 
   - [`[PHP] PHP 웹사이트 URL 가져오기`](https://github.com/Hyeon-moGu/Study-repo/issues/23)
+  - [`[PHP] URL 파일명만 가져오기`](https://github.com/Hyeon-moGu/Study-repo/issues/24)
 
 <br>
 
